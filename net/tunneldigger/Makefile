@@ -6,7 +6,7 @@ PKG_RELEASE:=2
 PKG_REV:=8d12a8d868548560f5c3e9ef63bb30b6c6d8b5c3
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.bz2
-PKG_SOURCE_URL:=git://github.com/wlanslovenija/tunneldigger.git
+PKG_SOURCE_URL:=git://github.com/sudomesh/tunneldigger.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=$(PKG_REV)
